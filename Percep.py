@@ -19,6 +19,10 @@ Avaliação de desempenho adicionado como método
 avalia o desempenho da rede neural perceptron
 (16/06/23)
 
+Criação de plots para vizualização de dados
+utilizando a biblioteca matplotlib
+(18/06/2023)
+
 
 adicionar o grid-search para hiperparâmetros ??
 
